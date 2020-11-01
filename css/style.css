@@ -158,6 +158,12 @@ main .team-clean{
     font-family: var(--Lexens);
 }
 
+main .team-clean{
+    background: var(--sky);
+    justify-content: center;
+    font-family: var(--Lexens);
+}
+
 
 main .site-title .btn:hover{
     background:transparent;
