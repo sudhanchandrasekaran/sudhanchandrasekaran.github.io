@@ -147,24 +147,48 @@ main .site-title .btn{
 
 }
 
-main .team-clean{
-    background: var(--sky);
-    padding: 1rem;
-    position: absolute;
-    bottom: 0%;
-    left: 20vw;
-    border-radius: 3rem;
-    justify-content: center;
-    font-family: var(--Lexens);
-}
-
-main .team-clean h1,h2,h3,p{
-    background: var(--sky);
-    justify-content: center;
-    font-family: var(--Lexens);
-}
-
-
+  
+.team-clean {
+    color: #313437;
+    background-color: #fff;
+  }
+  
+  .team-clean p {
+    color: #7d8285;
+  }
+  
+  .team-clean h2 {
+    font-weight: bold;
+    color: inherit;
+  }
+  
+  .team-clean .intro {
+    font-size: 16px;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .team-clean .item {
+    text-align: center;
+  }
+  
+  .team-clean .item .name {
+    font-weight: 400;
+    margin-top: 20px;
+    color: inherit;
+  }
+  
+  .team-clean .item .title {
+    text-transform: uppercase;
+    font-weight: 300;
+    color: inherit;
+    letter-spacing: 1px;
+    font-size: 15px;
+  }
+  
+  .team-clean .item img {
+    max-width: 160px;
+  }
 main .site-title .btn:hover{
     background:transparent;
     border:1px solid var(--white);
