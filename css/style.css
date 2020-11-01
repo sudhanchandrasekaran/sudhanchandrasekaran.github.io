@@ -147,6 +147,18 @@ main .site-title .btn{
 
 }
 
+main .team-clean{
+    background: var(--sky);
+    padding: 1rem;
+    position: absolute;
+    bottom: 0%;
+    left: 20vw;
+    border-radius: 3rem;
+    justify-content: center;
+    font-family: var(--Lexens);
+}
+
+
 main .site-title .btn:hover{
     background:transparent;
     border:1px solid var(--white);
