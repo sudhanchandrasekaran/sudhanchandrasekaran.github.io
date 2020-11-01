@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="0 0 64 64" width="64" height="64">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.11.3 
+    <dc:date>2019-10-02 09:10:20 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke="none" stroke-dasharray="none" fill="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" x="0" y="0" width="64" height="64"/>
+    <g id="Canvas_1: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 26 56 C 28.21 56 30 57.79 30 60 L 30 62 L 2 62 L 2 60 C 2 57.79 3.79 56 6 56 Z" fill="#838f9b"/>
+        <path d="M 26 56 C 28.21 56 30 57.79 30 60 L 30 62 L 2 62 L 2 60 C 2 57.79 3.79 56 6 56 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_3">
+        <path d="M 23 50 L 9 50 L 5 40 L 9 34 L 11 34 L 17 34 L 19 34 Z" fill="#b4dd7f"/>
+        <path d="M 23 50 L 9 50 L 5 40 L 9 34 L 11 34 L 17 34 L 19 34 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 23 50 L 26 56 L 6 56 L 9 50 Z" fill="#aab2bd"/>
+        <path d="M 23 50 L 26 56 L 6 56 L 9 50 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_5">
+        <path d="M 17 26.2 L 17 34 L 11 34 L 11 26.2 C 11.88 26.71 12.9 27 14 27 C 15.1 27 16.12 26.71 17 26.2 Z" fill="#ccd1d9"/>
+        <path d="M 17 26.2 L 17 34 L 11 34 L 11 26.2 C 11.88 26.71 12.9 27 14 27 C 15.1 27 16.12 26.71 17 26.2 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_6">
+        <path d="M 48 5 L 48 8 L 42 8 L 42 5 C 42 4.17 42.34 3.42 42.88 2.88 C 43.42 2.34 44.17 2 45 2 C 46.66 2 48 3.34 48 5 Z" fill="#fcd770"/>
+        <path d="M 48 5 L 48 8 L 42 8 L 42 5 C 42 4.17 42.34 3.42 42.88 2.88 C 43.42 2.34 44.17 2 45 2 C 46.66 2 48 3.34 48 5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_7">
+        <rect x="28" y="13" width="12" height="6" fill="#ccd1d9"/>
+        <rect x="28" y="13" width="12" height="6" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_8">
+        <path d="M 28 19 L 28 21 L 20 21 C 20 17.69 17.31 15 14 15 C 10.69 15 8 17.69 8 21 L 7 21 C 4.24 21 2 18.76 2 16 C 2 14.62 2.56 13.37 3.46 12.46 C 4.37 11.56 5.62 11 7 11 L 28 11 L 28 13 Z" fill="#aab2bd"/>
+        <path d="M 28 19 L 28 21 L 20 21 C 20 17.69 17.31 15 14 15 C 10.69 15 8 17.69 8 21 L 7 21 C 4.24 21 2 18.76 2 16 C 2 14.62 2.56 13.37 3.46 12.46 C 4.37 11.56 5.62 11 7 11 L 28 11 L 28 13 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_9">
+        <path d="M 42 8 L 48 8 L 50 8 L 50 26.69 C 48.93 25.07 47.09 24 45 24 C 42.91 24 41.07 25.07 40 26.69 L 40 19 L 40 13 L 40 8 Z" fill="#aab2bd"/>
+        <path d="M 42 8 L 48 8 L 50 8 L 50 26.69 C 48.93 25.07 47.09 24 45 24 C 42.91 24 41.07 25.07 40 26.69 L 40 19 L 40 13 L 40 8 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_10">
+        <path d="M 14 15 C 17.31 15 20 17.69 20 21 C 20 23.22 18.79 25.16 17 26.2 C 16.12 26.71 15.1 27 14 27 C 12.9 27 11.88 26.71 11 26.2 C 9.21 25.16 8 23.22 8 21 C 8 17.69 10.69 15 14 15 Z M 16 21 C 16 19.9 15.1 19 14 19 C 12.9 19 12 19.9 12 21 C 12 22.1 12.9 23 14 23 C 15.1 23 16 22.1 16 21 Z" fill="#b4dd7f"/>
+        <path d="M 14 15 C 17.31 15 20 17.69 20 21 C 20 23.22 18.79 25.16 17 26.2 C 16.12 26.71 15.1 27 14 27 C 12.9 27 11.88 26.71 11 26.2 C 9.21 25.16 8 23.22 8 21 C 8 17.69 10.69 15 14 15 Z M 16 21 C 16 19.9 15.1 19 14 19 C 12.9 19 12 19.9 12 21 C 12 22.1 12.9 23 14 23 C 15.1 23 16 22.1 16 21 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_11">
+        <path d="M 50 26.69 C 50.64 27.64 51 28.78 51 30 C 51 31.91 50.11 33.61 48.72 34.7 C 47.7 35.52 46.41 36 45 36 C 43.59 36 42.3 35.52 41.28 34.7 C 39.89 33.61 39 31.91 39 30 C 39 28.78 39.36 27.64 40 26.69 C 41.07 25.07 42.91 24 45 24 C 47.09 24 48.93 25.07 50 26.69 Z M 47 30 C 47 28.9 46.1 28 45 28 C 43.9 28 43 28.9 43 30 C 43 31.1 43.9 32 45 32 C 46.1 32 47 31.1 47 30 Z" fill="#b4dd7f"/>
+        <path d="M 50 26.69 C 50.64 27.64 51 28.78 51 30 C 51 31.91 50.11 33.61 48.72 34.7 C 47.7 35.52 46.41 36 45 36 C 43.59 36 42.3 35.52 41.28 34.7 C 39.89 33.61 39 31.91 39 30 C 39 28.78 39.36 27.64 40 26.69 C 41.07 25.07 42.91 24 45 24 C 47.09 24 48.93 25.07 50 26.69 Z M 47 30 C 47 28.9 46.1 28 45 28 C 43.9 28 43 28.9 43 30 C 43 31.1 43.9 32 45 32 C 46.1 32 47 31.1 47 30 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_12">
+        <path d="M 34 54 L 34 57 L 28 40 L 35 30 L 39 30 C 39 31.91 39.89 33.61 41.28 34.7 C 38.02 37.07 34 40 34 40 L 34 46 Z" fill="#e6e9ed"/>
+        <path d="M 34 54 L 34 57 L 28 40 L 35 30 L 39 30 C 39 31.91 39.89 33.61 41.28 34.7 C 38.02 37.07 34 40 34 40 L 34 46 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_13">
+        <path d="M 62 40 L 56 57 L 56 54 L 56 46 L 56 40 L 48.72 34.7 C 50.11 33.61 51 31.91 51 30 L 55 30 Z" fill="#e6e9ed"/>
+        <path d="M 62 40 L 56 57 L 56 54 L 56 46 L 56 40 L 48.72 34.7 C 50.11 33.61 51 31.91 51 30 L 55 30 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_14">
+        <path d="M 54 62 L 36 62 C 34.895 62 34 61.105 34 60 L 34 46 C 34 44.895 34.895 44 36 44 L 54 44 C 55.105 44 56 44.895 56 46 L 56 60 C 56 61.105 55.105 62 54 62 Z" fill="#cf9e76"/>
+        <path d="M 54 62 L 36 62 C 34.895 62 34 61.105 34 60 L 34 46 C 34 44.895 34.895 44 36 44 L 54 44 C 55.105 44 56 44.895 56 46 L 56 60 C 56 61.105 55.105 62 54 62 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_15">
+        <rect x="42" y="56" width="6" height="6" fill="#fcd770"/>
+        <rect x="42" y="56" width="6" height="6" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_16">
+        <rect x="42" y="44" width="6" height="6" fill="#fcd770"/>
+        <rect x="42" y="44" width="6" height="6" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_17">
+        <path d="M 14.836088 37.541716 L 16.776088 37.057716 L 17.260088 38.997716 L 15.320088 39.481716 Z" fill="black"/>
+        <path d="M 14.836088 37.541716 L 16.776088 37.057716 L 17.260088 38.997716 L 15.320088 39.481716 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_18">
+        <path d="M 15.812948 41.414576 L 17.752948 40.930576 L 18.236948 42.870576 L 16.296948 43.354576 Z" fill="black"/>
+        <path d="M 15.812948 41.414576 L 17.752948 40.930576 L 18.236948 42.870576 L 16.296948 43.354576 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_19">
+        <path d="M 16.78302 45.295164 L 18.72302 44.811164 L 19.20702 46.751164 L 17.26702 47.235164 Z" fill="black"/>
+        <path d="M 16.78302 45.295164 L 18.72302 44.811164 L 19.20702 46.751164 L 17.26702 47.235164 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_20">
+        <path d="M 14 18 C 12.346 18 11 19.346 11 21 C 11 22.654 12.346 24 14 24 C 15.654 24 17 22.654 17 21 C 17 19.346 15.654 18 14 18 Z M 14 22 C 13.449 22 13 21.551 13 21 C 13 20.449 13.449 20 14 20 C 14.551 20 15 20.449 15 21 C 15 21.551 14.551 22 14 22 Z" fill="black"/>
+        <path d="M 14 18 C 12.346 18 11 19.346 11 21 C 11 22.654 12.346 24 14 24 C 15.654 24 17 22.654 17 21 C 17 19.346 15.654 18 14 18 Z M 14 22 C 13.449 22 13 21.551 13 21 C 13 20.449 13.449 20 14 20 C 14.551 20 15 20.449 15 21 C 15 21.551 14.551 22 14 22 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_21">
+        <path d="M 45 33 C 46.654 33 48 31.654 48 30 C 48 28.346 46.654 27 45 27 C 43.346 27 42 28.346 42 30 C 42 31.654 43.346 33 45 33 Z M 45 29 C 45.551 29 46 29.449 46 30 C 46 30.551 45.551 31 45 31 C 44.449 31 44 30.551 44 30 C 44 29.449 44.449 29 45 29 Z" fill="black"/>
+        <path d="M 45 33 C 46.654 33 48 31.654 48 30 C 48 28.346 46.654 27 45 27 C 43.346 27 42 28.346 42 30 C 42 31.654 43.346 33 45 33 Z M 45 29 C 45.551 29 46 29.449 46 30 C 46 30.551 45.551 31 45 31 C 44.449 31 44 30.551 44 30 C 44 29.449 44.449 29 45 29 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_23">
+        <rect x="45" y="19" width="2" height="2" fill="black"/>
+        <rect x="45" y="19" width="2" height="2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_24">
+        <rect x="45" y="15" width="2" height="2" fill="black"/>
+        <rect x="45" y="15" width="2" height="2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+      <g id="Graphic_25">
+        <rect x="45" y="11" width="2" height="2" fill="black"/>
+        <rect x="45" y="11" width="2" height="2" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5"/>
+      </g>
+    </g>
+  </g>
+</svg>
