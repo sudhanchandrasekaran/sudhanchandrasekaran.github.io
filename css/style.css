@@ -158,7 +158,7 @@ main .team-clean{
     font-family: var(--Lexens);
 }
 
-main .team-clean{
+main .team-clean h1,h2,h3,p{
     background: var(--sky);
     justify-content: center;
     font-family: var(--Lexens);
